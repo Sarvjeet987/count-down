@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="img.jpg" alt="Git" />
+  <img src="bg.png" alt="Git" />
 </div>
 Project - Count-Down
 <br>
